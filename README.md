@@ -1,1 +1,2 @@
 # movies-recommender-system
+Create a machine learning-based movie recommender system leveraging collaborative filtering and content-based filtering. This project uses a dataset of user ratings and movie metadata to predict user preferences and suggest movies. Key features include data preprocessing, model training, evaluation, and a user-friendly interface for recommendations. Implemented with Python, Pandas, Scikit-learn, and Surprise libraries. Suitable for learning the fundamentals of recommendation algorithms, data handling, and machine learning model implementation.
